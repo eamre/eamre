@@ -21,6 +21,8 @@
  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt ="css" height="40">
 </p>
 
+## Github Stats
+<img align ="left" alt="eamre github stats" src="https://github-readme-stats.vercel.app/api?username=eamre&show_icons=true&hide_border=true" />
 <!---
 eamre/eamre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
