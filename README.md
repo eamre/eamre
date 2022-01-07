@@ -2,8 +2,12 @@
 - 👋 Hi, I’m @eamre
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning .Net, Angular, Flutter, React.js
+- 💬 Ask me about anything
 - 📫 How to reach me emrealkanxyz@gmail.com
 <!---- 💞️ I’m looking to collaborate on ...--->
+
+## :email: Find me on:
+<a href="https://www.linkedin.com/in/emrealkann" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
 
 ## Languages and Tools:
 <p>
