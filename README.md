@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=eamre&color=blue)
+<!----![](https://komarev.com/ghpvc/?username=eamre&color=blue) [![Github](https://img.shields.io/github/followers/eamre?label=Followers&logo=Github)](https://github.com/eamre)
+--->
 ## Hi there, I'm Emre
 - 👋 Hi, I’m @eamre
 - 👀 I’m interested in Software Development
