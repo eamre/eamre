@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=eamre&color=blue)
 ## Hi there, I'm Emre
 - 👋 Hi, I’m @eamre
 - 👀 I’m interested in Software Development
@@ -22,7 +23,10 @@
 </p>
 
 ## Github Stats
+<div>
 <img align ="left" alt="eamre github stats" src="https://github-readme-stats.vercel.app/api?username=eamre&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eamre&hide=php&theme=tokyonight" />
+</div>
 <!---
 eamre/eamre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
