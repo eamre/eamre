@@ -13,6 +13,7 @@
 
 ## Languages and Tools:
 <p>
+<img src=https://muhammeddincer.com/wp-content/uploads/2019/10/java-logo.jpg alt="java" height="40">
 <img src=https://docs.microsoft.com/de-de/windows/images/csharp-logo.png alt="C#" height="40">
 <img src=https://www.muylinux.com/wp-content/uploads/2017/08/NET.png alt=".net" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
