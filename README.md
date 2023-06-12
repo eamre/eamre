@@ -3,7 +3,7 @@
 ## Hi there, I'm Emre
 - 👋 Hi, I’m @eamre
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning .Net, Angular, Flutter, React.js
+- 🌱 I’m currently learning Java, .Net, Angular, React.js
 - 💬 Ask me about anything
 - 📫 How to reach me emrealkanxyz@gmail.com
 <!---- 💞️ I’m looking to collaborate on ...--->
